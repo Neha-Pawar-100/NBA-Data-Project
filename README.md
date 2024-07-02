@@ -27,7 +27,7 @@ This project analyzes NBA player data to uncover insights into player demographi
 9. Team Analysis :
 (a) Calculated and visualized the average salary for players on each team.
 
-10 Extras :
+Extras :
 (a) Found the index of the player with the minimum weight.
 (b) Sorted players alphabetically by name.
 (c) Created and displayed a series of player names.
