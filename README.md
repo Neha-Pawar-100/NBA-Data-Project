@@ -19,23 +19,23 @@ DATA VISUALIZATION :
 
 * Created visualizations : histogram of player ages, box plot of salaries by position, and scatter plot of age vs. salary with position-based coloring.
 
-  TOP PLAYERS :
+TOP PLAYERS :
 
 * Identified the top 10 players with the highest salaries.
 
-  COLLEGE ANALYSIS :
+COLLEGE ANALYSIS :
 
 * Determined the top 5 colleges producing the most NBA players.
 
-  POSITION DISTRIBUTION :
+POSITION DISTRIBUTION :
 
 * Displayed player position distribution using a pie chart.
 
-  TEAM ANALYSIS :
+TEAM ANALYSIS :
 
 * Calculated and visualized the average salary for players on each team.
 
-  EXTRAS :
+EXTRAS :
 
 * Found the index of the player with the minimum weight.
 * Sorted players alphabetically by name.
