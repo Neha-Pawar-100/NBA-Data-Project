@@ -1,48 +1,44 @@
-Project Summary : 
-This project analyzes NBA players data to uncover insights into player demographics, salary distributions, and team compositions. Key steps and findings include:
+   PROJECT SUMMARY : 
+   This project analyzes NBA players data to uncover insights into player demographics, salary distributions, and team compositions. Key steps and findings include:
 
-1. Data Loading & Cleaning :
+   DATA LOADINNG & CLEANING :
 
-(a) Loaded NBA player data into a Pandas DataFrame.
+* Loaded NBA player data into a Pandas DataFrame.
+* Handled missing values and removed duplicate entries.
 
-(b) Handled missing values and removed duplicate entries.
+DATA TRANSFORMATION :
 
-3. Data Transformation :
+* Added a 'BMI' column using the formula: BMI = (weight in pounds / (height in inches)^2) * 703 with a fixed height of 70 inches.
 
-(a) Added a 'BMI' column using the formula: BMI = (weight in pounds / (height in inches)^2) * 703 with a fixed height of 70 inches.
+EXPLORATORY DATA ANALYSIS (EDA) :
 
-5. Exploratory Data Analysis (EDA) :
+* Provided summary statistics for age, weight, and salary.
+* Analyzed average age, weight, and salary by player position.
 
-(a) Provided summary statistics for age, weight, and salary.
+DATA VISUALIZATION :
 
-(b) Analyzed average age, weight, and salary by player position.
+* Created visualizations : histogram of player ages, box plot of salaries by position, and scatter plot of age vs. salary with position-based coloring.
 
-7. Data Visualization :
+  TOP PLAYERS :
 
-(a) Created visualizations : histogram of player ages, box plot of salaries by position, and scatter plot of age vs. salary with position-based coloring.
+* Identified the top 10 players with the highest salaries.
 
-9. Top Players :
+  COLLEGE ANALYSIS :
 
-(a) Identified the top 10 players with the highest salaries.
+* Determined the top 5 colleges producing the most NBA players.
 
-11. College Analysis :
+  POSITION DISTRIBUTION :
 
-(a) Determined the top 5 colleges producing the most NBA players.
+* Displayed player position distribution using a pie chart.
 
-13. Position Distribution :
+  TEAM ANALYSIS :
 
-(a) Displayed player position distribution using a pie chart.
+* Calculated and visualized the average salary for players on each team.
 
-15. Team Analysis :
+  EXTRAS :
 
-(a) Calculated and visualized the average salary for players on each team.
-
-Extras :
-
-(a) Found the index of the player with the minimum weight.
-
-(b) Sorted players alphabetically by name.
-
-(c) Created and displayed a series of player names.
+* Found the index of the player with the minimum weight.
+* Sorted players alphabetically by name.
+* Created and displayed a series of player names.
 
 This analysis provides valuable insights for player scouting, salary negotiations, and team strategy planning.
