@@ -34,6 +34,10 @@ DATA VISUALIZATION :
 * Created a Pie chart to show the distributions of players' across different positions.
 
   <img width="390" alt="Histogram" src="https://github.com/user-attachments/assets/faaa92df-38f7-44fb-b5eb-9b567d21a549">
+
+* Created a Bar plot to visualize average salary of players by each team.
+
+  
   
 TOP PLAYERS :
 
