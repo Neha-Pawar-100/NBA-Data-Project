@@ -1,3 +1,5 @@
+# NBA Data Prpject
+
    PROJECT SUMMARY : 
    This project analyzes NBA players data to uncover insights into player demographics, salary distributions, and team compositions. Key steps and findings include:
 
