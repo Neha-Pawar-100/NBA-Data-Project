@@ -3,7 +3,7 @@
    PROJECT SUMMARY : 
    This project analyzes NBA players data to uncover insights into player demographics, salary distributions, and team compositions. Key steps and findings include:
 
-   DATA LOADINNG & CLEANING :
+   DATA LOADING & CLEANING :
 
 * Loaded NBA player data into a Pandas DataFrame.
 * Handled missing values and removed duplicate entries.
@@ -41,11 +41,11 @@ DATA VISUALIZATION :
   
 TOP PLAYERS :
 
-* Identified the top 10 players with the highest salaries.
+* Identified the Top 10 players with the highest salaries.
 
 COLLEGE ANALYSIS :
 
-* Determined the top 5 colleges producing the most NBA players.
+* Determined the Top 5 colleges producing the most NBA players.
 
 POSITION DISTRIBUTION :
 
