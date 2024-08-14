@@ -21,7 +21,7 @@ DATA VISUALIZATION :
 
 * Created visuals : Created a Histogram plot to show the distribution of players' ages.
 
-  https://github.com/Neha-Pawar-100/NBA-Data-Project/issues/1#issue-2465460104
+  <img width="609" alt="Histogram" src="https://github.com/user-attachments/assets/bd770b05-26c9-437f-98bb-e5e1f6a9dc36">
 
 TOP PLAYERS :
 
