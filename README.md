@@ -30,6 +30,10 @@ DATA VISUALIZATION :
 * Created a Scatter plot to analyze agewise salaries within different positions. Used different colors for different positions like "Red" for "C" position, "Blue" for "PF" position, "Grey" for "PG" position, "Green" for "SF" position and "Yellow" for "SG" position.
 
   <img width="698" alt="Histogram" src="https://github.com/user-attachments/assets/b13842cf-e6e9-4814-ac62-39e1de329b03">
+
+* Created a Pie chart to show the distributions of players' across different positions.
+
+  
   
 TOP PLAYERS :
 
