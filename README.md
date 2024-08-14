@@ -1,4 +1,4 @@
-# NBA Data Prpject
+# NBA Data Project
 
    PROJECT SUMMARY : 
    This project analyzes NBA players data to uncover insights into player demographics, salary distributions, and team compositions. Key steps and findings include:
@@ -19,7 +19,7 @@ EXPLORATORY DATA ANALYSIS (EDA) :
 
 DATA VISUALIZATION :
 
-* Created visualizations : histogram of player ages, box plot of salaries by position, and scatter plot of age vs. salary with position-based coloring.
+* Created visuals : Creatd Histogram chart of players' ages, Box plot of salaries by position, and Scatter plot of age vs. salary with position-based coloring.
 
 TOP PLAYERS :
 
