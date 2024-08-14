@@ -19,10 +19,14 @@ EXPLORATORY DATA ANALYSIS (EDA) :
 
 DATA VISUALIZATION :
 
-* Created visuals : Created a Histogram plot to show the distribution of players' ages.
+* Created a Histogram plot to show the distribution of NBA players' ages.
 
   <img width="609" alt="Histogram" src="https://github.com/user-attachments/assets/bd770b05-26c9-437f-98bb-e5e1f6a9dc36">
 
+* Created a Box plot to comapare players' salaries by position.
+
+  
+  
 TOP PLAYERS :
 
 * Identified the top 10 players with the highest salaries.
