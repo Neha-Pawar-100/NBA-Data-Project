@@ -25,7 +25,7 @@ DATA VISUALIZATION :
 
 * Created a Box plot to comapare players' salaries by position.
 
-  
+  <img width="463" alt="Histogram" src="https://github.com/user-attachments/assets/966a87d3-f077-4825-9b8c-f97be4f3615a">
   
 TOP PLAYERS :
 
