@@ -19,7 +19,9 @@ EXPLORATORY DATA ANALYSIS (EDA) :
 
 DATA VISUALIZATION :
 
-* Created visuals : Creatd Histogram chart of players' ages, Box plot of salaries by position, and Scatter plot of age vs. salary with position-based coloring.
+* Created visuals : Created a Histogram plot to show the distribution of players' ages.
+
+  https://github.com/Neha-Pawar-100/NBA-Data-Project/issues/1#issue-2465460104
 
 TOP PLAYERS :
 
