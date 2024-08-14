@@ -37,7 +37,7 @@ DATA VISUALIZATION :
 
 * Created a Bar plot to visualize average salary of players by each team.
 
-  
+  <img width="680" alt="Histogram" src="https://github.com/user-attachments/assets/4bb92515-dc73-4014-baf2-a92efaae889d">
   
 TOP PLAYERS :
 
